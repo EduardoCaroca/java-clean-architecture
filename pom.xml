@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>br.com.alura</groupId>
-	<artifactId>codechella</artifactId>
+	<artifactId>clean-arquitecture</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>codechella</name>
 	<description>backend codechella</description>
